@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 *Project Link* -https://witty-forest-04ba04700.2.azurestaticapps.net/
 
-*project demo video link* - 
+*project demo video link* - https://youtu.be/H7izsoh8JIQ
 
 ## Azure technologies used for Project
 
